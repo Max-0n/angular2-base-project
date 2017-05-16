@@ -9,5 +9,5 @@ import { Todo } from './shared/todo';
 	styleUrls: ['app.components.css']
 })
 export class AppComponent{
-	title: string = 'Medical Note';
+	title: string = '2Do list';
 }

@@ -28,6 +28,7 @@ main {
     align-items: center;
     flex-direction: column;
 }
+todos,
 todo-form,
 todo-list{
 	width: 100%;
